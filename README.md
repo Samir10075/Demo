@@ -1,4 +1,4 @@
 # Demo
 Learning git
 <br>
-Author - samir ansari
+Author - samir khan
